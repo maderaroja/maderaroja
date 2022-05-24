@@ -1,7 +1,7 @@
-### Hi there, I'm Nyanda 👋
-
-<img src="{[BadgeURLHere](https://www.linkedin.com/in/nredwood/)}" /> 
-
+### Hi there, I'm Nyanda 👋  
+  
+<img src="{https://www.linkedin.com/in/nredwood/}"/> 
+  
 ## Hackathon Competitions
 ---
 ## Banff International Research Station, Career & Innovation Hub (BIRS CIH) Hackathon
