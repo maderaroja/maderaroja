@@ -1,6 +1,6 @@
 ### Hi there, I'm Nyanda 👋  
   
-<img src="{https://www.linkedin.com/in/nredwood/}"/> 
+![image]({https://www.linkedin.com/in/nredwood/}) 
   
 ## Hackathon Competitions
 ---
