@@ -12,7 +12,7 @@
   
 ## [Hack The Globe (HTG)](https://globalspark.world/?linkId=148571003#/hacktheglobe)  
   
-[HTG](https://globalspark.world/?linkId=148571003#/hacktheglobe) required participants to build, over the course of 2 weeks, a business proposal and a minimum viable product (mvp) that deal with one of 12 areas of the UN sustainable Development Goals. My team and I chose water scarcity as our sustainable development issue. Here is a [link](https://github.com/maderaroja/HTG-2022-Green-Water) to our mvp. I appreciate being among the top 300 successful applicants out of a pool of 3000.
+[HTG](https://globalspark.world/?linkId=148571003#/hacktheglobe) required participants to build, over the course of 2 weeks, a business proposal and a minimum viable product (mvp) that deal with one of 12 areas of the UN sustainable Development Goals. My team and I chose water scarcity as our sustainable development issue. Here is a [link](https://github.com/maderaroja/HTG-2022-Green-Water) to our mvp. I appreciate being among the top 300 successful applicants out of a pool of 3000 worldwide.
   
 ## Iterim Projects
   
