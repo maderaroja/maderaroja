@@ -17,7 +17,7 @@
 ## Iterim Projects
   
 ## Predicting-Anomaly-Logs
-[Predicting-Anomaly-Logs](https://github.com/maderaroja/Predicting-Anomaloy-Logs) uses techniques from Machine Learning to predict anomalous log files in the Hadoop Distributed File System (HDFS).
+[Predicting-Anomaly-Logs](https://github.com/maderaroja/Predicting-Anomaly-Logs) uses techniques from Machine Learning to predict anomalous log files in the Hadoop Distributed File System (HDFS).
   
 ## Twitter API Wrapper
 [Twitter API](https://github.com/maderaroja/twitterapiR) wrapper is an API wrapper for Twitter in R. This package provides user friendly functions for the users to query information from Twitter.
